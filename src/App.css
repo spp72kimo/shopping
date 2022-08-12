@@ -1,3 +1,14 @@
+* {
+  /* outline: 1px solid; */
+  padding: 0;
+  margin: 0;
+  font-family: 微軟正黑體;
+}
+
+a {
+  text-decoration: none;
+  color: #1e1c1b;
+}
 .App {
   text-align: center;
 }
